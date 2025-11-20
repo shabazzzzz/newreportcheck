@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: shabazzzzz/simplyway
+  repo: shabazzzzz/newreportcheck
   branch: main
 
 media_folder: "src/images/uploads"
